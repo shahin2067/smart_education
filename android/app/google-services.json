@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900231556865",
+    "project_id": "smart-education-ac5bd",
+    "storage_bucket": "smart-education-ac5bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900231556865:android:d359f951561f4d966db500",
+        "android_client_info": {
+          "package_name": "com.example.smart_education"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFxWuv-oMPJ67h58NtxA6JK3H2FXqWAAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
