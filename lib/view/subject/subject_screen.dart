@@ -40,7 +40,7 @@ class _SubjectScreenState extends State<SubjectScreen> {
                     title: Text(
                       subjectController.allSubjects[index].subjectDescrition
                           .toString(),
-                      style: TextStyle(fontSize: 17.sp, color: Colors.pink),
+                      style: TextStyle(fontSize: 18.sp, color: Colors.pink),
                     ),
                     trailing: InkWell(
                       onTap: () {
